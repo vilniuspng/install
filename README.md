@@ -3,8 +3,7 @@
 After Windows 10 installation, consider the following steps:
 
 1) Install and execute TronScript https://www.reddit.com/r/TronScript/
-tron.bat -sd
--sd to skip defragmentation
+"tron.bat -sd" to skip defragmentation
 
 2) Install Git https://git-scm.com/
 
@@ -14,3 +13,4 @@ tron.bat -sd
 
 5) Install Microsoft Office
 
+6) Install youtube-dl https://youtube-dl.org/
